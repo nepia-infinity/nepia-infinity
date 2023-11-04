@@ -1,4 +1,6 @@
 ### Hi there 👋
+- 🌱 I’m currently learning Python, Git
+- 🔭 I’m currently working on Asoview
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nepia-infinity
 )](https://github.com/anuraghazra/github-readme-stats)
