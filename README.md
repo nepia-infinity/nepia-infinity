@@ -1,7 +1,9 @@
 ### Hi there 👋
 - 🌱 I’m currently learning Python, Git
-- 🔭 I’m currently working on Asoview
+- 🔭 I’m currently working on Asoview.
 - 💖 I'm interested in Apple Motion, Final Cut Pro, Logic Pro, Generative AI such as Adobe Firefly, DALL.E3
+
+I also drew my GitHub profile icon.
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nepia-infinity&layout=compact
 )](https://github.com/anuraghazra/github-readme-stats)
