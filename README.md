@@ -5,7 +5,7 @@
 
 I also drew my GitHub profile icon.
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nepia-infinity&layout=compact
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nepia-infinity&layout=compact&theme=tokyonight
 )](https://github.com/anuraghazra/github-readme-stats)
 
 
