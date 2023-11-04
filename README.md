@@ -1,6 +1,6 @@
 ### Hi there 👋
 - 🌱 I'm currently learning Python, Git(started to use in 2023)
-- 🔭 I’m currently working on [Asoview](https://www.asoview.co.jp/).
+- 😆 I’m currently working on [Asoview](https://www.asoview.co.jp/).
 - 📓 Here is my [note](https://note.com/nepia_infinity) account.
 - 🐦 [Twitter](https://twitter.com/nepia_infinity)
 
