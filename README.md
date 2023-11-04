@@ -3,9 +3,9 @@
 - 🔭 I’m currently working on [Asoview](https://www.asoview.co.jp/).
 - 💖 I'm interested in Apple Motion, Final Cut Pro, Logic Pro, Generative AI such as Adobe Firefly, DALL.E3
 
-I also drew my GitHub profile icon.\n
-Here is my [note](https://note.com/nepia_infinity) account.\n
-[Twitter](https://twitter.com/nepia_infinity) Blue bird is gone, but I still love it.
+- 🖌I also drew my GitHub profile icon.
+- 📓Here is my [note](https://note.com/nepia_infinity) account.
+- 🐦[Twitter](https://twitter.com/nepia_infinity) Blue bird is gone now, but I still love it.
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nepia-infinity&layout=compact&theme=tokyonight
 )](https://github.com/anuraghazra/github-readme-stats)
