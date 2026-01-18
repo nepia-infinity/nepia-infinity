@@ -1,7 +1,6 @@
 # Hi, I'm TSUBASA
 
 - 🌱 I'm currently learning Python, Git(started to use in 2023)
-- 📓 Here is my [note](https://note.com/nepia_infinity) account.
 - 🐦 [Twitter](https://twitter.com/nepia_infinity)
 
 
