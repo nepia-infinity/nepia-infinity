@@ -1,4 +1,4 @@
-# Hi, I'm TSUBASA
+# Hi, I'm nepia-infinity
 
 - 🌱 I'm currently learning Python, Git(started to use in 2023)
 - 🐦 [Twitter](https://twitter.com/nepia_infinity)
