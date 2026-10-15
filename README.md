@@ -1,9 +1,6 @@
 # Hi, I'm nepia-infinity
 
 - 🌱 I'm currently learning Python, Git(started to use in 2023)
-- 🐦 [Twitter](https://twitter.com/nepia_infinity)
-
-
   
 <p align="left"> 
   <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nepia-infinity&layout=compact&show_icons=true&theme=onedark" />
